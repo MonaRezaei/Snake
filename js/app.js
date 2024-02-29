@@ -11,7 +11,7 @@ let dy = 0;
 let seedX;
 let seedY;
 let scr = 0;
-let speed = 200;
+let speed = 500;
 let highestScore = localStorage.getItem('highest__score');
 let directionPermission = true;
 
